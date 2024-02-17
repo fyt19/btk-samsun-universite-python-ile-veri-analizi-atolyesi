@@ -1,0 +1,1 @@
+# btk-samsun-universite-python-ile-veri-analizi-atolyesi
